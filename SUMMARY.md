@@ -9,5 +9,5 @@
 * [第三讲 生命之子是你内在的生命](第3讲.md)
 * [第四讲 我是葡萄树，你们是枝条](第4讲.md)
 * [第五讲 因为我活着，你们也要活着](第5讲.md)
-* [第六讲 让我 "死 "而复活的生命之灵就在你们的内在](di-liu-jiang-rang-wo-si-er-fu-huo-de-sheng-ming-zhi-ling-jiu-zai-ni-men-de-nei-zai.md)
-* [第七讲  我的话语来自天国](di-qi-jiang-wo-de-hua-yu-lai-zi-tian-guo.md)
+* [第六讲 让我 "死 "而复活的生命之灵就在你们的内在](第6讲.md)
+* [第七讲  我的话语来自天国](第7讲.md)
