@@ -12,3 +12,4 @@
 * [第六讲 让我 "死 "而复活的生命之灵就在你们的内在](di-liu-jiang-rang-wo-si-er-fu-huo-de-sheng-ming-zhi-ling-jiu-zai-ni-men-de-nei-zai.md)
 * [第七讲  我的话语来自天国](di-qi-jiang-wo-de-hua-yu-lai-zi-tian-guo.md)
 * [第八讲 生命意识就在内在](第8讲.md)
+* [第九讲 见过我的人就见过了生命](第9讲.md)
